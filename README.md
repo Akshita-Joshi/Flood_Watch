@@ -5,6 +5,7 @@ FloodWatch: Mobile apps to give flood alerts 8-10 hours prior to the floods.
 This repository has 1 app which is for the citizens. Once, a citizen registers using their mobile number, he/she will have to provide access for location as well as hometown address as that is essential for flood alerts.
 Flood alerts are given to people in high alert areas(red zones) and in areas where there is possibility of flooding(yellow zones) based on their location and/or hometown address to relocate.
 Flood alerts are given in the form of notifications via app as well as SMS to the registered mobile number. Suppose a person doesn't have a mobile phone with GPS then SMS facility is provided based on their hometown address.
+Citizen app repo link: https://github.com/Akshita-Joshi/Flood_Watch
 
 Further, alerts are given to NDRF(National Disaster Response Force) team to relocate the citizens. These notifications will be sent every 10 mins until an acknowledgement is received from NDRF. Clusters of nearby towns along with population is shown for their ease to rescue citizens. 
 NDRF app repo link: https://github.com/Akshita-Joshi/NDRF_App
